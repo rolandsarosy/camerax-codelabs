@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraX Application</string>
+    <string name="take_shot_button">TAKE SHOT</string>
+</resources>
